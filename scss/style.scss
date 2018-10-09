@@ -1,0 +1,31 @@
+// defining variable for sass
+
+// one line comment
+
+/*this is a multi line comment*/
+
+/*VARIABLES*/
+
+$primary-color: #bada55;
+$font-size1: 3.125em;
+$font-size2: 2.15em;
+$text-color: violet;
+
+// base styles
+
+body{
+    background-color: $primary-color;
+
+    h1{
+    font-size: $font-size1;
+    }
+
+    p{
+        font-size: $font-size2;
+        color: $text-color;
+    }
+
+}
+
+
+
