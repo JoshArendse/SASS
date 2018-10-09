@@ -3,9 +3,9 @@ learning about SASS, an easier way of styling
 check out my link here:
 https://josharendse.github.io/sass/index.html
 
-sass is a different approach to css which allows for an easier way to use and link css here are the steps to using sass...
+sass is a different approach to css which allows for an easier way to use and link, css here are the steps to using sass...
 
-##Setting up your Workspace
+## Setting up your Workspace
 
 -step 1: Download ruby command editor for windows if you dont have it already at https://rubyinstaller.org/.
 
